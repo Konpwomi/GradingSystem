@@ -1,0 +1,14 @@
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\bin\Debug\net6.0\GradingSystem.exe
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\bin\Debug\net6.0\GradingSystem.deps.json
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\bin\Debug\net6.0\GradingSystem.runtimeconfig.json
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\bin\Debug\net6.0\GradingSystem.dll
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\bin\Debug\net6.0\GradingSystem.pdb
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfo.cs
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.dll
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\refint\GradingSystem.dll
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.pdb
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\GradingSystem.genruntimeconfig.cache
+C:\Users\ninte\Desktop\Semester 2.1\SE\GradingSystem\obj\Debug\net6.0\ref\GradingSystem.dll
